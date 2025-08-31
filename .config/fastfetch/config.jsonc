@@ -1,0 +1,44 @@
+{
+  "logo": {
+    "type": "file",
+    "source": "~/.config/fastfetch/logo/konata.txt",
+    "width": 53,
+    "height": 26,
+    "padding": {
+      "top": 0,
+      "left": 0,
+      "right": 0
+    }
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "wmtheme",
+    "theme",
+    "icons",
+    "font",
+    "cursor",
+    "terminal",
+    "terminalfont",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "localip",
+    "battery",
+    "poweradapter",
+    "locale",
+    "break",
+    "colors"
+  ]
+}
